@@ -1,6 +1,6 @@
 # R2R_VLNCE_SSASub
 This repository contains:
-+ The script used to generate sub-instruction set from [VLN-CE](https://github.com/jacobkrantz/VLN-CE)
++ The script used for generating sub-instruction set from [VLN-CE](https://github.com/jacobkrantz/VLN-CE)
 + Two pre-processed datasets **R2R_VLNCE_FGSub** and **R2R_VLNCE_SSASub**
 
 Dataset:
